@@ -1,6 +1,6 @@
 # 👑 RIAH Pathway
 
-> **Education. Experience. Technology. Opportunity.**
+Education • Experience • Certifications • Career • Legacy
 
 Welcome to the official GitHub organization for **RIAH Pathway**, an education and workforce development ecosystem designed to connect academic learning, experiential development, professional preparation, technology, and career pathways.
 
