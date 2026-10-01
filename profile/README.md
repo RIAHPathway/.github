@@ -5,10 +5,10 @@
 Welcome to the official GitHub organization for **RIAH Pathway**, an education and workforce development ecosystem designed to connect academic learning, experiential development, professional preparation, technology, and career pathways.
 
 🌐 **Website:** RIAHDynasty.com  
-📧 **Contact:** contact@riahdynasty.com  
 💻 **GitHub:** github.com/riahpathway  
+📧 **Email:** contact@riahdynasty.com  
 📞 **Phone:** 877-245-RIAH (7424)
-📍 **Cleveland, Ohio**
+📱 **Social:** @RIAHDynasty  
 
 ---
 
