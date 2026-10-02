@@ -1,14 +1,6 @@
-# 👑 RIAH Pathway
-
-Education • Experience • Certifications • Career • Legacy
+<img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/3f8ec55a-bdd9-4786-9226-a9adaf6d4ade" />
 
 Welcome to the official GitHub organization for **RIAH Pathway**, an education and workforce development ecosystem designed to connect academic learning, experiential development, professional preparation, technology, and career pathways.
-
-🌐 **Website:** RIAHPathway.com  
-💻 **GitHub:** github.com/riahpathway  
-📧 **Email:** contact@riahpathway.com  
-📞 **Phone:** 877-245-RIAH (7424)  
-📱 **Social:** @RIAHPathway
 
 ---
 
@@ -25,7 +17,6 @@ Welcome to the official GitHub organization for **RIAH Pathway**, an education a
 👑 [Ways to Contribute](#-ways-to-contribute)  
 👑 [Contributor Benefits](#-contributor-benefits)  
 👑 [Contribution Standards](#-contribution-standards)  
-👑 [Connect With Us](#-connect-with-us)
 
 ---
 
@@ -264,21 +255,9 @@ Whether you are a:
 
 ---
 
-## 🔗 Connect With Us
-
-🌐 **Website:** RIAHPathway.com  
-💻 **GitHub:** github.com/riahpathway  
-📧 **Email:** contact@riahpathway.com  
-📞 **Phone:** 877-245-RIAH (7424)  
-📱 **Social:** @RIAHPathway  
-
----
-
 <p align="center">
 
 ### 👑 RIAH Pathway
-
-**Learn. Build. Experience. Advance.**
 
 Education • Experience • Certifications • Career • Legacy
 
