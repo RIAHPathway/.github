@@ -7,25 +7,25 @@ Welcome to the official GitHub organization for **RIAH Pathway**, an education a
 🌐 **Website:** RIAHPathway.com  
 💻 **GitHub:** github.com/riahpathway  
 📧 **Email:** contact@riahpathway.com  
-📞 **Phone:** 877-245-RIAH (7424)
+📞 **Phone:** 877-245-RIAH (7424)  
 📱 **Social:** @RIAHPathway
 
 ---
 
 ## 📑 Index
 
-- [🏛️ About RIAH Pathway](#️-about-riah-pathway)
-- [🎓 Education Pathways](#-education-pathways)
-- [🏫 Schools](#-schools)
-- [💼 Experiential Pathway](#-experiential-pathway)
-- [💻 Technology](#-technology)
-- [📚 Curriculum & Resources](#-curriculum--resources)
-- [🛍️ Products](#️-products)
-- [🤝 Open Source & Contributors](#-open-source--contributors)
-- [🧩 Ways to Contribute](#-ways-to-contribute)
-- [🎁 Contributor Benefits](#-contributor-benefits)
-- [📜 Contribution Standards](#-contribution-standards)
-- [🔗 Connect With Us](#-connect-with-us)
+👑 [About RIAH Pathway](#️-about-riah-pathway)  
+👑 [Education Pathways](#-education-pathways)  
+👑 [Schools](#-schools)  
+👑 [Experiential Pathway](#-experiential-pathway)  
+👑 [Technology](#-technology)  
+👑 [Curriculum & Resources](#-curriculum--resources)  
+👑 [Products](#️-products)  
+👑 [Open Source & Contributors](#-open-source--contributors)  
+👑 [Ways to Contribute](#-ways-to-contribute)  
+👑 [Contributor Benefits](#-contributor-benefits)  
+👑 [Contribution Standards](#-contribution-standards)  
+👑 [Connect With Us](#-connect-with-us)
 
 ---
 
@@ -35,16 +35,16 @@ Welcome to the official GitHub organization for **RIAH Pathway**, an education a
 
 Our model brings together:
 
-🎓 Education  
-💼 Experiential learning  
-🧠 Professional development  
-💻 Technology  
-🔐 Cybersecurity  
-📚 Curriculum  
-🏢 Business development  
-🛍️ Educational products  
-🤝 Partnerships  
-🌎 Community engagement  
+👑 Education  
+👑 Experiential learning  
+👑 Professional development  
+👑 Technology  
+👑 Cybersecurity  
+👑 Curriculum  
+👑 Business development  
+👑 Educational products  
+👑 Partnerships  
+👑 Community engagement  
 
 Our goal is to create connected pathways that help learners move from **education → experience → professional development → career and entrepreneurial opportunities**.
 
@@ -54,16 +54,16 @@ Our goal is to create connected pathways that help learners move from **educatio
 
 RIAH Pathway is developing multiple education and professional pathways, including:
 
-- 🎓 High School Diploma
-- 📖 GED and HiSET Preparation
-- 💼 Experiential Programs
-- 🏅 Certification Preparation
-- ⚖️ Law and Legal Education Pathways
-- 🎓 Associate's Pathways
-- 🎓 Bachelor's Pathways
-- 🎓 MBA Pathways
-- 📚 Minor Pathways
-- 🔄 Continuing and Professional Education
+👑 High School Diploma  
+👑 GED and HiSET Preparation  
+👑 Experiential Programs  
+👑 Certification Preparation  
+👑 Law and Legal Education Pathways  
+👑 Associate's Pathways  
+👑 Bachelor's Pathways  
+👑 MBA Pathways  
+👑 Minor Pathways  
+👑 Continuing and Professional Education  
 
 Programs are designed around flexible learning, professional development, technology integration, and experiential opportunities.
 
@@ -73,12 +73,12 @@ Programs are designed around flexible learning, professional development, techno
 
 The RIAH Pathway ecosystem includes academic and professional programming across:
 
-- 💼 **School of Business**
-- 💻 **School of Technology**
-- 🛡️ **School of Homeland Security**
-- 🤝 **School of Experiential Education**
-- 📚 **Academic and Certification Academy**
-- 🎒 **High School**
+👑 **School of Business**  
+👑 **School of Technology**  
+👑 **School of Homeland Security**  
+👑 **School of Experiential Education**  
+👑 **Academic and Certification Academy**  
+👑 **High School**
 
 ---
 
@@ -92,16 +92,16 @@ RIAH Pathway's experiential structure is designed to provide progressive profess
 
 Experiential opportunities may include:
 
-- 🏢 Business operations
-- 💻 Technology
-- 🔐 Cybersecurity
-- 📊 Accounting and finance
-- 📣 Marketing
-- 🧑‍💼 Management
-- ⚖️ Legal and professional services
-- 🎨 Creative development
-- 🤝 Community engagement
-- 🚀 Entrepreneurship
+👑 Business operations  
+👑 Technology  
+👑 Cybersecurity  
+👑 Accounting and finance  
+👑 Marketing  
+👑 Management  
+👑 Legal and professional services  
+👑 Creative development  
+👑 Community engagement  
+👑 Entrepreneurship  
 
 ---
 
@@ -111,17 +111,17 @@ Technology supports the RIAH Pathway ecosystem.
 
 Our repositories may include projects involving:
 
-- 🌐 Website development
-- ⚙️ Platform infrastructure
-- 🤖 AI and automation
-- 🔐 Cybersecurity
-- ☁️ Cloud technologies
-- 📊 Data systems
-- 🔌 Integrations
-- 🧩 APIs
-- 🖥️ Internal tools
-- 📱 Digital experiences
-- 🎓 Education technology
+👑 Website development  
+👑 Platform infrastructure  
+👑 AI and automation  
+👑 Cybersecurity  
+👑 Cloud technologies  
+👑 Data systems  
+👑 Integrations  
+👑 APIs  
+👑 Internal tools  
+👑 Digital experiences  
+👑 Education technology  
 
 ---
 
@@ -129,17 +129,17 @@ Our repositories may include projects involving:
 
 Our GitHub organization may also support collaborative development of:
 
-- 📘 Curriculum
-- 📝 Course materials
-- 📑 Documentation
-- 🧪 Labs
-- 💻 Technical exercises
-- 🏅 Certification resources
-- 📖 Study materials
-- 📋 Policies
-- 🧰 Templates
-- 📥 Downloads
-- 🎥 Educational media
+👑 Curriculum  
+👑 Course materials  
+👑 Documentation  
+👑 Labs  
+👑 Technical exercises  
+👑 Certification resources  
+👑 Study materials  
+👑 Policies  
+👑 Templates  
+👑 Downloads  
+👑 Educational media  
 
 Some repositories or materials may remain private, proprietary, restricted, or licensed separately.
 
@@ -149,15 +149,15 @@ Some repositories or materials may remain private, proprietary, restricted, or l
 
 RIAH Pathway is developing educational and professional products that may include:
 
-- 📚 Books
-- 📖 Workbooks
-- 📝 Study guides
-- 🏅 Certification materials
-- ⚖️ Bar review resources
-- 🧰 Professional toolkits
-- 🎓 Student resources
-- 💻 Select digital products
-- 📦 Printed educational products
+👑 Books  
+👑 Workbooks  
+👑 Study guides  
+👑 Certification materials  
+👑 Bar review resources  
+👑 Professional toolkits  
+👑 Student resources  
+👑 Select digital products  
+👑 Printed educational products  
 
 Many products are designed primarily for physical distribution, while select resources may be offered digitally.
 
@@ -177,23 +177,23 @@ Contributions may support our website, technology, educational resources, docume
 
 Depending on the repository, contributors may help with:
 
-- 💻 Development
-- 🌐 Website improvements
-- 🐛 Bug fixes
-- 🎨 UI and UX
-- ♿ Accessibility
-- 🔐 Security
-- 🤖 Automation
-- 📚 Curriculum
-- 📝 Documentation
-- 📋 Policies
-- 🎥 Videos
-- 🖼️ Graphics
-- 📥 Downloads
-- 🔎 Research
-- 🧪 Testing
-- 🌍 Community resources
-- 💡 New ideas and improvements
+👑 Development  
+👑 Website improvements  
+👑 Bug fixes  
+👑 UI and UX  
+👑 Accessibility  
+👑 Security  
+👑 Automation  
+👑 Curriculum  
+👑 Documentation  
+👑 Policies  
+👑 Videos  
+👑 Graphics  
+👑 Downloads  
+👑 Research  
+👑 Testing  
+👑 Community resources  
+👑 New ideas and improvements  
 
 Check individual repositories for project-specific contribution requirements.
 
@@ -205,12 +205,12 @@ Eligible contributors may receive benefits based on their approved level of cont
 
 Potential benefits include:
 
-🎓 **Up to 25% tuition discount**  
-🛍️ **Eligible product discounts**  
-💼 **Portfolio-building opportunities**  
-🌎 **Open-source contribution experience**  
-🤝 **Community collaboration**  
-🏆 **Contributor recognition**
+👑 **Up to 25% tuition discount**  
+👑 **Eligible product discounts**  
+👑 **Portfolio-building opportunities**  
+👑 **Open-source contribution experience**  
+👑 **Community collaboration**  
+👑 **Contributor recognition**
 
 Eligibility, contribution requirements, limitations, and applicable terms may vary by project or program.
 
@@ -220,14 +220,14 @@ Eligibility, contribution requirements, limitations, and applicable terms may va
 
 Before contributing:
 
-1. 📖 Review the repository README.
-2. 📋 Review `CONTRIBUTING.md` when available.
-3. 🔎 Check existing issues and discussions.
-4. 🍴 Fork the appropriate repository when required.
-5. 🌿 Create a focused branch.
-6. 🛠️ Make and test your contribution.
-7. 📤 Submit a pull request.
-8. 🤝 Participate respectfully in the review process.
+👑 Review the repository README.  
+👑 Review `CONTRIBUTING.md` when available.  
+👑 Check existing issues and discussions.  
+👑 Fork the appropriate repository when required.  
+👑 Create a focused branch.  
+👑 Make and test your contribution.  
+👑 Submit a pull request.  
+👑 Participate respectfully in the review process.
 
 By contributing, you agree to follow applicable repository licenses, contribution policies, community standards, and intellectual property requirements.
 
@@ -249,16 +249,16 @@ We are building an ecosystem where education, technology, experience, and profes
 
 Whether you are a:
 
-👩‍💻 Developer  
-🎓 Student  
-👨‍🏫 Educator  
-🎨 Designer  
-🔐 Cybersecurity professional  
-📚 Curriculum contributor  
-🎥 Content creator  
-🧑‍💼 Business professional  
-🔎 Researcher  
-🤝 Community contributor  
+👑 Developer  
+👑 Student  
+👑 Educator  
+👑 Designer  
+👑 Cybersecurity professional  
+👑 Curriculum contributor  
+👑 Content creator  
+👑 Business professional  
+👑 Researcher  
+👑 Community contributor  
 
 **There is an opportunity to contribute.**
 
@@ -269,7 +269,7 @@ Whether you are a:
 🌐 **Website:** RIAHPathway.com  
 💻 **GitHub:** github.com/riahpathway  
 📧 **Email:** contact@riahpathway.com  
-📞 **Phone:** 877-245-RIAH (7424)
+📞 **Phone:** 877-245-RIAH (7424)  
 📱 **Social:** @RIAHPathway  
 
 ---
