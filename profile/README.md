@@ -4,11 +4,11 @@ Education • Experience • Certifications • Career • Legacy
 
 Welcome to the official GitHub organization for **RIAH Pathway**, an education and workforce development ecosystem designed to connect academic learning, experiential development, professional preparation, technology, and career pathways.
 
-🌐 **Website:** RIAHDynasty.com  
+🌐 **Website:** RIAHPathway.com  
 💻 **GitHub:** github.com/riahpathway  
-📧 **Email:** contact@riahdynasty.com  
+📧 **Email:** contact@riahpathway.com  
 📞 **Phone:** 877-245-RIAH (7424)
-📱 **Social:** @RIAHDynasty  
+📱 **Social:** @RIAHPathway
 
 ---
 
@@ -79,8 +79,6 @@ The RIAH Pathway ecosystem includes academic and professional programming across
 - 🤝 **School of Experiential Education**
 - 📚 **Academic and Certification Academy**
 - 🎒 **High School**
-
-Additional programs, concentrations, and pathways may be introduced as the ecosystem develops.
 
 ---
 
@@ -247,9 +245,9 @@ Always review the license and contribution requirements for the specific reposit
 
 ## 🚀 Build With RIAH Pathway
 
-We're building an ecosystem where education, technology, experience, and professional development connect.
+We are building an ecosystem where education, technology, experience, and professional development connect.
 
-Whether you're a:
+Whether you are a:
 
 👩‍💻 Developer  
 🎓 Student  
@@ -262,17 +260,17 @@ Whether you're a:
 🔎 Researcher  
 🤝 Community contributor  
 
-**There's an opportunity to contribute.**
+**There is an opportunity to contribute.**
 
 ---
 
 ## 🔗 Connect With Us
 
-🌐 **Website:** RIAHDynasty.com  
+🌐 **Website:** RIAHPathway.com  
 💻 **GitHub:** github.com/riahpathway  
-📧 **Email:** contact@riahdynasty.com  
+📧 **Email:** contact@riahpathway.com  
 📞 **Phone:** 877-245-RIAH (7424)
-📱 **Social:** @RIAHDynasty  
+📱 **Social:** @RIAHPathway  
 
 ---
 
