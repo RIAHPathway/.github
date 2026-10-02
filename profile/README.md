@@ -1,4 +1,4 @@
-<img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/3f8ec55a-bdd9-4786-9226-a9adaf6d4ade" />
+<img width="2172" height="724" alt="RIAH Pathway Legacy Banner" src="https://github.com/user-attachments/assets/9f53acac-ec08-4af5-bbe6-30505ae83631" />
 
 Welcome to the official GitHub organization for **RIAH Pathway**, an education and workforce development ecosystem designed to connect academic learning, experiential development, professional preparation, technology, and career pathways.
 
