@@ -21,7 +21,7 @@ Welcome to the official GitHub organization for **RIAH Pathway**, an education a
 
 | Education | Institution |
 | --- | --- |
-| 🧮 **Accounting with a Minor in International Business** | **Kent State University** |
+| 🧮 **Accounting with a Minor in International Business and Spanish** | **Kent State University** |
 | 💻 **Computer Science** | **Central Methodist University** |
 | 🎓 **Master of Business Administration in Organizational Management** | **Eastern University** |
 
