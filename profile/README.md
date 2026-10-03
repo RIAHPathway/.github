@@ -25,7 +25,7 @@ Welcome to the official GitHub organization for **RIAH Pathway**, an education a
 
 | Degree / Credential | Field / Major | Institution / Pathway | Year / Status |
 |---|---|---|---|
-| 🔄 Master's Degree | Finance | RIAH Pathway | **2029** |
+| 🔄 Bachelor's Degree | Finance | RIAH Pathway | **2029** |
 | 🔄 Bachelor's Degree | Cybersecurity | RIAH Pathway | **2029** |
 | 🔄 Bachelor's Degree | Intelligence | RIAH Pathway | **2029** |
 | 🔄 Juris Doctor (JD) | Law | RIAH Pathway | **2030** |
