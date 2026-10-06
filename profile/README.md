@@ -4,35 +4,6 @@
 
 ---
 
-# 👤 CONTRIBUTOR
-
-| Category | Details |
-|---|---|
-| 👤 **Contributor** | **Mariah Dominique Rucker** |
-| 👑 **Role** | Founder, CEO & Chairman |
-| 🏗️ **Current Build Status** | Currently building RIAH Pathway independently |
-| 👥 **Current Team** | No current team — beta team hiring begins October 2026 |
-| 💻 **Beta Leadership Hiring** | CTO and CISO |
-| 💼 **Experiential Hiring** | Experiential professionals |
-| 🎓 **Faculty Hiring** | PhD-qualified faculty and adjunct faculty |
-| 🌐 **Additional Hiring** | Additional roles across the ecosystem |
-| 🚀 **Beta Cohort** | Spring 2027 |
-| 🤝 **Beta Team** | Equity + compensation during beta |
-| 🌐 **Website Launch** | October 2026 |
-
-### 🔗 CONTRIBUTOR PROFILES
-
-| Platform | Profile |
-|---|---|
-| 💻 **GitHub** | [Mariah Dominique Rucker](https://github.com/mariahdominiquerucker) |
-| 💼 **LinkedIn** | [Mariah Dominique Rucker](https://linkedin.com/in/mariahrucker) |
-| 📘 **Facebook** | [@heymariahrucker](https://facebook.com/heymariahrucker) |
-| 📸 **Instagram** | [@heymariahrucker](https://instagram.com/heymariahrucker) |
-| 🌳 **Linktree** | [Mariah Rucker](https://linktr.ee/mariahrucker) |
-| ▶️ **YouTube** | [@mariahrucker](https://youtube.com/@mariahrucker) |
-
----
-
 # 📑 INDEX
 
 | # | Section |
@@ -82,20 +53,28 @@
 
 | Category | Details |
 |---|---|
-| 👤 **Founder** | **Mariah Dominique Rucker** |
-| 👑 **Leadership** | Founder, CEO & Chairman |
-| 🏢 **Organization** | RIAH Pathway |
-| 💼 **Career** | Professional experience since **2013** |
-| 🚀 **RIAH Pathway** | In development since **June 2025** |
-| 📚 **Development** | 2027 Professional Certification Roadmap |
+| 👤 **Contributor** | **Mariah Dominique Rucker** |
+| 👑 **Role** | Founder, CEO & Chairman |
+| 🏗️ **Current Build Status** | Currently building RIAH Pathway independently |
+| 👥 **Current Team** | No current team — beta team hiring begins October 2026 |
+| 💻 **Beta Leadership Hiring** | CTO and CISO |
+| 💼 **Experiential Hiring** | Experiential professionals |
+| 🎓 **Faculty Hiring** | PhD-qualified faculty and adjunct faculty |
+| 🌐 **Additional Hiring** | Additional roles across the ecosystem |
+| 🚀 **Beta Cohort** | Spring 2027 |
+| 🤝 **Beta Team** | Equity + compensation during beta |
+| 🌐 **Website Launch** | October 2026 |
 
-Mariah Dominique Rucker is currently building RIAH Pathway independently while preparing to hire the beta team.
+### 🔗 CONTRIBUTOR PROFILES
 
-**Hiring begins October 2026** for CTO, CISO, experiential professionals, PhD-qualified faculty, adjunct faculty, and additional ecosystem roles.
-
-**Beta Cohort:** Spring 2027  
-**Beta Team:** Equity participation + compensation  
-**Website Launch:** October 2026
+| Platform | Profile |
+|---|---|
+| 💻 **GitHub** | [Mariah Dominique Rucker](https://github.com/mariahdominiquerucker) |
+| 💼 **LinkedIn** | [Mariah Dominique Rucker](https://linkedin.com/in/mariahrucker) |
+| 📘 **Facebook** | [@heymariahrucker](https://facebook.com/heymariahrucker) |
+| 📸 **Instagram** | [@heymariahrucker](https://instagram.com/heymariahrucker) |
+| 🌳 **Linktree** | [Mariah Rucker](https://linktr.ee/mariahrucker) |
+| ▶️ **YouTube** | [@mariahrucker](https://youtube.com/@mariahrucker) |
 
 ---
 
