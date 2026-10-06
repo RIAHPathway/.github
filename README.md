@@ -26,6 +26,39 @@ RIAH Pathway is an education, workforce development, technology, and experientia
 
 ---
 
+## 👑 FOUNDER & LEADERSHIP
+
+<p align="left">
+  <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
+</p>
+
+| Category | Details |
+|---|---|
+| 👤 **Contributor** | **Mariah Dominique Rucker** |
+| 👑 **Role** | Founder, CEO & Chairman |
+| 🏗️ **Current Build Status** | Currently building RIAH Pathway independently |
+| 👥 **Current Team** | No current team — beta team hiring begins October 2026 |
+| 💻 **Beta Leadership Hiring** | CTO and CISO |
+| 💼 **Experiential Hiring** | Experiential professionals |
+| 🎓 **Faculty Hiring** | PhD-qualified faculty and adjunct faculty |
+| 🌐 **Additional Hiring** | Additional roles across the ecosystem |
+| 🚀 **Beta Cohort** | Spring 2027 |
+| 🤝 **Beta Team** | Equity + compensation during beta |
+| 🌐 **Website Launch** | October 2026 |
+
+### 🔗 CONTRIBUTOR PROFILES
+
+| Platform | Profile |
+|---|---|
+| 💻 **GitHub** | [Mariah Dominique Rucker](https://github.com/mariahdominiquerucker) |
+| 💼 **LinkedIn** | [Mariah Dominique Rucker](https://linkedin.com/in/mariahrucker) |
+| 📘 **Facebook** | [@heymariahrucker](https://facebook.com/heymariahrucker) |
+| 📸 **Instagram** | [@heymariahrucker](https://instagram.com/heymariahrucker) |
+| 🌳 **Linktree** | [Mariah Rucker](https://linktr.ee/mariahrucker) |
+| ▶️ **YouTube** | [@mariahrucker](https://youtube.com/@mariahrucker) |
+
+---
+
 ## 🏛️ About RIAH Pathway
 
 RIAH Pathway connects education, experiential development, professional preparation, technology, certification preparation, career development, and entrepreneurship within one developing ecosystem.
