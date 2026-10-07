@@ -34,7 +34,7 @@ RIAH Pathway is an education, workforce development, technology, and experientia
 
 | Category | Details |
 |---|---|
-| 👤 **Contributor** | **Mariah Dominique Rucker** |
+| 👤 **Contributor/Founder/CEO/Chairman** | **Mariah Dominique Rucker** |
 | 👑 **Role** | Founder, CEO & Chairman |
 | 🏗️ **Current Build Status** | Currently building RIAH Pathway independently |
 | 👥 **Current Team** | No current team — beta team hiring begins October 2026 |
@@ -276,7 +276,7 @@ Repository-specific contribution requirements, licenses, intellectual property r
 
 | Category | Details |
 |---|---|
-| 👤 **Founder** | **Mariah Dominique Rucker** |
+| 👤 **Contributor/Founder/CEO/Chairman** | **Mariah Dominique Rucker** |
 | 👑 **Role** | Founder, CEO & Chairman |
 | 🏗️ **Development** | RIAH Pathway |
 | 💻 **GitHub** | [Mariah Dominique Rucker](https://github.com/mariahdominiquerucker) |

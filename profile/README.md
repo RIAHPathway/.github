@@ -53,7 +53,7 @@
 
 | Category | Details |
 |---|---|
-| 👤 **Contributor** | **Mariah Dominique Rucker** |
+| 👤 **Contributor/Founder/CEO/Chairman** | **Mariah Dominique Rucker** |
 | 👑 **Role** | Founder, CEO & Chairman |
 | 🏗️ **Current Build Status** | Currently building RIAH Pathway independently |
 | 👥 **Current Team** | No current team — beta team hiring begins October 2026 |
