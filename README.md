@@ -40,7 +40,7 @@ The Roman-numeral index begins with the Legacy monitoring section and continues 
 
 | KEY | README SECTION | DESCRIPTION |
 |---|---|---|
-| **I 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-i-legacy) | Public-source replica monitoring, evidence preservation, Tier 1–3 review structure, daily audit, and human-review routing. |
+| **I 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-i-legacy) | Legacy Bot folder routing: monitoring framework, operating instructions, dated run log, public repository notice, and evidence-review workflow. |
 | **II ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-ii-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
 | **III 👥** | [At-Scale Positions](#readme-iii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
 | **IV 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-iv-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
@@ -83,7 +83,11 @@ Public GitHub development does not make private curriculum, internal systems, co
 
 | Resource | Purpose |
 |---|---|
-| 🤖 [Legacy — RIAH Pathway Replica Bot](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-Pathway-Replica-Bot-Legacy.md) | Monitoring purpose, Tier definitions, hourly workflow, daily audit, evidence surfaces, review key, and Replica Bot log. |
+| 📁 [Legacy Bot folder](https://github.com/RIAHPathway/Website-Draft/tree/main/RIAH-PATHWAY-LEGACY-BOT) | Folder containing all four Legacy Bot Markdown resources, including the monitoring framework, instructions, run log, and public repository notice. |
+| 🤖 [Legacy — RIAH Pathway Replica Bot](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT.md) | Main bot purpose, RIAH fingerprint and Tier 1–3 criteria, monitoring cadence, public evidence preservation, daily audit, and human-review escalation. |
+| 🧭 [Legacy Bot Instructions](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-INSTRUCTIONS.md) | Operational instructions for market comparisons, RIAH development status, public-footprint coverage, replication review, and daily bot run rules. |
+| 🧾 [Legacy Bot Run Log](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md) | Dated bot runs with public-market comparisons, evidence coverage, Tier flags, observations, and audit results. |
+| ⚠️ [Public Repository Notice](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.md) | Public-access scope, licensed material, intellectual-property protections, and the distinction between independent development and unauthorized reuse. |
 
 ```mermaid
 flowchart LR
