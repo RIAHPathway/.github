@@ -32,6 +32,74 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Instagram:** https://instagram.com/heymariahrucker
 - **Linktree:** https://linktr.ee/mariahrucker
 
+<a id="profile-education"></a>
+
+## 🎓 Education
+
+### 🔄 In Progress
+
+| Credential | Field | Pathway | Target |
+|---|---|---|---|
+| 🔄 Bachelor's | Finance | RIAH Pathway | **2029** |
+| 🔄 Bachelor's | Cybersecurity | RIAH Pathway | **2029** |
+| 🔄 Bachelor's | Intelligence | RIAH Pathway | **2029** |
+| 🔄 JD | Law | RIAH Pathway | **2030** |
+
+### ✅ Earned
+
+| Credential | Field | Institution | Year | Verification |
+|---|---|---|---|---|
+| ✅ MBA | Organizational Management | Eastern University | **2022** | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ B.S. | Computer Science | Central Methodist University | **2019** | [Merit Pages](https://meritpages.com/RuckerMariah) • Nevada Board of Education verification, July 2026 |
+| ✅ B.B.A. | Accounting | Kent State University | **2016** | [Merit Pages](https://meritpages.com/MariahRucker) • Nevada Board of Education verification, July 2026 |
+| ✅ Minor | International Business Spanish | Kent State University | **2016** | [Merit Pages](https://meritpages.com/MariahRucker) • Nevada Board of Education verification, July 2026 |
+
+<a id="profile-certifications"></a>
+
+## 📚 Professional Certifications
+
+| Certification | Status |
+|---|---|
+| Certified Fraud Examiner — **CFE** | ✅ Earned |
+| (ISC)² Certified in Cybersecurity — **CC** | ✅ Earned |
+| Certified Public Accountant — **CPA** | 🔄 In Progress |
+| Certified Management Accountant — **CMA** | 🔄 In Progress |
+| Certified Internal Auditor — **CIA** | 🔄 In Progress |
+| Certified Information Systems Auditor — **CISA** | 🔄 In Progress |
+| Certified Information Security Manager — **CISM** | 🔄 In Progress |
+| Certified in Risk and Information Systems Control — **CRISC** | 🔄 In Progress |
+| Certified Information Systems Security Professional — **CISSP** | 🔄 In Progress |
+
+<a id="profile-professional-experience"></a>
+
+## 💼 Professional Experience
+
+Professional experience began in **2013** across entrepreneurship, financial services, public accounting, corporate environments, and higher education.
+
+| Sector | Employer |
+|---|---|
+| 💻 Entrepreneurship | **RIAH** |
+| 💳 Financial Services | **JPMorgan Chase** |
+| 💳 Financial Services | **PNC Bank** |
+| 🧮 Public Accounting | **Ernst & Young** |
+| 🧮 Public Accounting | **Grant Thornton** |
+| 🏢 Global Corporation | **Nestlé** |
+| 🎓 Higher Education | **Kent State University** |
+
+<a id="profile-areas-of-experience"></a>
+
+## 🧠 Areas of Experience
+
+| Business & Finance | Technology | Professional |
+|---|---|---|
+| 🧮 Accounting | 🔐 Cybersecurity | 💼 Consulting |
+| 🔍 Audit | 💻 Technology | 👥 Management |
+| 📈 Analytics | 🤖 Automation | 🎓 Higher Education |
+| 💳 Financial Services | 💻 Development | 💻 Entrepreneurship |
+| 🧮 Public Accounting | ⚙️ Implementation | 🏢 Business Operations |
+
+---
+
 <a id="readme-index"></a>
 
 # 🗂️ README INDEX & KEY
