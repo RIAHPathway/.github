@@ -181,7 +181,7 @@ The Roman-numeral index begins with the Legacy monitoring section and continues 
 |---|---|
 | [Current Master Hiring Timeline & Position Profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) | 2026 recruitment schedule and full position profiles (view or download). |
 | [16-JOIN-US.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16-JOIN-US.md) | Join Us parent routing document inside the renamed **16-JOIN-US** folder; preserves the numbered wireframe pages. |
-| [Public-Facing Compensation, Equity & Benefits](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PUBLIC-FACING-COMPENSATION-EQUITY-BENEFITS.md) | Common employee benefits, $0–$1B revenue-tier benefits, 48-month performance-linked equity accrual and stage compensation percentages. |
+| [Compensation, Equity & Benefits](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PUBLIC-FACING-COMPENSATION-EQUITY-BENEFITS.md) | Common employee benefits, $0–$1B revenue-tier benefits, 48-month performance-linked equity accrual and stage compensation percentages. |
 | [ALL-POSITIONS-COMBINED.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md) | Existing combined role directory with the updated public benefits, equity accrual, and vesting reference added. |
 
 ### 🔑 KEY
