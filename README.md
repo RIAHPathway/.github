@@ -14,11 +14,48 @@
   <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
 </p>
 
-There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
+**RIAH Pathway is NOW HIRING.** I currently lead recruitment as Founder/CEO. Our staged 2026 recruitment begins with CISO on October 10, followed by CTO, CFO, CLO, COO, faculty, cybersecurity, technology, board, and director roles. Experiential and additional professional opportunities open according to confirmed demand. [View the 2026 Master Hiring Timeline and Position Profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf).
 
-Beta team members will be hired with **equity participation and compensation during the beta cohort**, which launches in **Spring 2027**.
+Recruitment, compensation, equity participation, and start dates are position-specific and subject to individual role profiles and signed agreements. The beta cohort is planned for **Spring 2027**.
 
 The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
+
+<a id="readme-now-hiring"></a>
+
+## 📣 NOW HIRING — 2026 Recruitment Schedule
+
+**RIAH Pathway is NOW HIRING.** Recruitment began **October 10, 2026**, with the **Chief Information Security Officer (CISO)** opening; additional scheduled rounds include executive leadership (CTO, CFO, CLO, COO), academic faculty, cybersecurity specialists, technology builders and architect, board governance, and program and project directors. Openings begin on their respective dates below; later staffing is demand-based.
+
+<img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
+
+**Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). First-round interview booking is **first come, first served**. Each round closes at **5:00 p.m. ET on the listed Tuesday**, or earlier if available appointment slots fill. Finalists receive private second-round links on Wednesday; final hiring notices follow on Monday.
+
+### 📅 Master Hiring Schedule — All Dates 2026
+
+| Hiring round / positions | Opens | Closes | Public 1st Zoom | Wed. finalist notices | Private 2nd Zoom | Weekend review | Hiring notices | Official start |
+|---|---|---|---|---|---|---|---|---|
+| CISO | Oct 10 | Oct 13 | Oct 12–13 | Oct 14 | Oct 15–16 | Oct 17–18 | Oct 19 | Oct 26 |
+| CTO | Oct 16 | Oct 20 | Oct 19–20 | Oct 21 | Oct 22–23 | Oct 24–25 | Oct 26 | Nov 2 |
+| CFO | Oct 23 | Oct 27 | Oct 26–27 | Oct 28 | Oct 29–30 | Oct 31–Nov 1 | Nov 2 | Nov 9 |
+| CLO | Oct 30 | Nov 3 | Nov 2–3 | Nov 4 | Nov 5–6 | Nov 7–8 | Nov 9 | Nov 16 |
+| COO | Nov 6 | Nov 10 | Nov 9–10 | Nov 11 | Nov 12–13 | Nov 14–15 | Nov 16 | Nov 23 |
+| PhD + adjunct faculty (14 each) | Nov 13 | Nov 17 | Nov 16–17 | Nov 18 | Nov 19–20 | Nov 21–22 | Nov 23 | Nov 30 |
+| Cybersecurity specialists (Red, Blue, Purple) | Nov 20 | Nov 24 | Nov 23–24 | Nov 25 | Nov 26–27 | Nov 28–29 | Nov 30 | Dec 7 |
+| Technology builders + architect | Nov 27 | Dec 1 | Nov 30–Dec 1 | Dec 2 | Dec 3–4 | Dec 5–6 | Dec 7 | Dec 14 |
+| Board of governance | Dec 4 | Dec 8 | Dec 7–8 | Dec 9 | Dec 10–11 | Dec 12–13 | Dec 14 | Dec 21 |
+| Program + project directors | Dec 11 | Dec 15 | Dec 14–15 | Dec 16 | Dec 17–18 | Dec 19–20 | Dec 21 | Dec 28 |
+
+**Later, demand-based hiring:** Planned experiential positions across the four schools (up to 120 in the staffing plan, not immediate openings), additional experiential positions beyond 120, product and service contractors, and JD/non-JD attorney and judge supervisors use the same recruitment process once organizational demand and resources are confirmed. They do not yet have fixed dates.
+
+### 📥 Join Us Hiring Downloads
+
+| Download | File |
+|---|---|
+| 📄 Master Hiring Timeline & Position Profiles (PDF) | [View the PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) · [Download the PDF](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
+| 🖼️ Official RIAH Pathway Hiring Flyer (JPG) | [View or save hiring flyer](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg) |
+
+---
+
 
 <a id="readme-links"></a>
 
@@ -118,8 +155,9 @@ The Roman-numeral index begins with the Legacy monitoring section and continues 
 
 ### 👑 Join Us Position Compensation & Benefits
 
-| Markdown | Description |
+| Document / Download | Description |
 |---|---|
+| [Current Master Hiring Timeline & Position Profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) | 2026 recruitment schedule and full position profiles (view or download). |
 | [16-JOIN-US.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16-JOIN-US.md) | Join Us parent routing document inside the renamed **16-JOIN-US** folder; preserves the numbered wireframe pages. |
 | [Public-Facing Compensation, Equity & Benefits](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PUBLIC-FACING-COMPENSATION-EQUITY-BENEFITS.md) | Common employee benefits, $0–$1B revenue-tier benefits, 48-month performance-linked equity accrual and stage compensation percentages. |
 | [ALL-POSITIONS-COMBINED.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md) | Existing combined role directory with the updated public benefits, equity accrual, and vesting reference added. |
@@ -199,8 +237,9 @@ RIAH does not assume that similarity proves copying or liability. Independent cr
 
 The Join Us Downloads structure contains the current RIAH Pathway at-scale position, governance, affiliate, partnership, equity, vesting, staffing, and assignment resources. The table below routes directly to each Markdown file so individual roles and the combined at-scale structures can be accessed from the main repository README.
 
-| Position Category | Position / Resource | Markdown |
+| Position Category | Position / Resource | Document / Download |
 |---|---|---|
+| Now Hiring Downloads | Master Hiring Timeline & Position Profiles (PDF) | [Download current hiring PDF](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
 | Academic Faculty Positions | Adjunct Academic Faculty | [Adjunct Academic Faculty](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md) |
 | Academic Faculty Positions | PhD Academic Faculty | [PhD Academic Faculty](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/PHD-ACADEMIC-FACULTY.md) |
 | Affiliates | Affiliates | [Affiliates](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/AFFILIATES/AFFILIATES.md) |
